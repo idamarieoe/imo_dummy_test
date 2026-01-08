@@ -1,2 +1,2 @@
 # imo_dummy_test
-tet
+test
